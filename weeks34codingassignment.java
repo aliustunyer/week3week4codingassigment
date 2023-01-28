@@ -20,8 +20,7 @@ public class weeks34codingassignment {
 		for(int i=0 ; i<ages.length; i++) {
 			ages2[i] = ages[i];
 		}
-		System.out.println (ages2[1]);
-		    
+		
 			//I preferred to add the new age as 6;
 		
 		ages2[8] = 6;
